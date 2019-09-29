@@ -1,0 +1,65 @@
+[
+  {
+    "id": 1,
+    "breed": "German Shepherd",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50396.png",
+    "temperament": "Confident, Courageous, Smart", 
+    "group": "Herding"
+  },
+  {
+    "id": 2,
+    "breed": "Doberman Pinscher",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50345.png",
+    "temperament": "Loyal, Fearless, Alert", 
+    "group": "Working"
+  },
+  {
+    "id": 3,
+    "breed": "Beagle",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50406.png",
+    "temperament": "Friendly, Curios, Merry", 
+    "group": "Hound"
+  },
+  {
+    "id": 4,
+    "breed": "Dalmation",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50389.png",
+    "temperament": "Dignified, Smart, Outgoing", 
+    "group": "Non-Sporting" 
+  },
+  {
+    "id": 5,
+    "breed": "Pomeranian",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50386.png",
+    "temperament": "Inquisitive, Bold, Lively", 
+    "group": "Toy"
+  },
+  {
+    "id": 6,
+    "breed": "Chinese Shar-Pei",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50340.png",
+    "temperament": "Loyal, Independent, Calm", 
+    "group": "Non-Sporting"
+  },
+  {
+    "id": 7,
+    "breed": "Weimaraner",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50314.png",
+    "temperament": "Friendly, Fearless, Obedient", 
+    "group": "Sporting"
+  },
+  {
+    "id": 8,
+    "breed": "Siberian Husky",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG50300.png",
+    "temperament": "Loyal, Outgoing, Mischevious", 
+    "group": "Working"
+  },
+  {
+    "id": 9,
+    "breed": "Labrador Retriever",
+    "image": "http://pngimg.com/uploads/dog/dog_PNG2425.png",
+    "temperament": "Friendly, Active, Outgoing", 
+    "group": "Sporting"
+  }
+]
